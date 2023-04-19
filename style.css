@@ -37,8 +37,7 @@ body {
     position: relative;
     height: 200px;
     top: 100px;
-    background-color: black;
-    opacity: .5;
+    background-color: rgb(0,0,0,.5);
 }
 
 .logo {
@@ -53,4 +52,9 @@ h1 {
 
 .form-main {
     flex: 5;
+}
+
+.form-heading {
+  font-family: "Cabin";
+  font-size: 1.7rem;
 }
