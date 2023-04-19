@@ -69,3 +69,12 @@ h1 {
   background-color: white;
   flex: 5;
 }
+
+
+.form-row input[type='text'] {
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  padding: 7px;
+  font-size: 14px;
+}
