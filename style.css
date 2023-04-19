@@ -70,8 +70,34 @@ h1 {
   flex: 5;
 }
 
+.form-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.form-row > div {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
 
 .form-row input[type='text'] {
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  padding: 7px;
+  font-size: 14px;
+}
+
+.form-row input[type="email"] {
+  background-color: #FFFFFF;
+  border: 1px solid #D6D9DC;
+  border-radius: 3px;
+  padding: 7px;
+  font-size: 14px;
+}
+
+.form-row input[type="tel"] {
   background-color: #FFFFFF;
   border: 1px solid #D6D9DC;
   border-radius: 3px;
