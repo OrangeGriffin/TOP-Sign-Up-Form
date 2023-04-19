@@ -33,20 +33,20 @@ body {
 .logo-overlay {
     display: flex;
     position: relative;
-    height: 150px;
+    height: 200px;
     top: 100px;
     background-color: black;
     opacity: .5;
+}
+
+.logo {
+    height: 80%;
 }
 
 h1 {
   font-family: "Kalam", cursive;
   font-size: 40px;
   color: whitesmoke;
-}
-
-.logo {
-    opacity: .8;
 }
 
 .form-main {
