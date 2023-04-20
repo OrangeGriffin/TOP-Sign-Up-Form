@@ -103,6 +103,10 @@ h1 {
   font-size: 14px;
 }
 
+.form-row label {
+  margin-bottom: 4px;
+}
+
 .btn-create-account {
   position: relative;
   top: 20px;
