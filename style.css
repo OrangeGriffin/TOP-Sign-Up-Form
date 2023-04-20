@@ -123,3 +123,9 @@ h1 {
   background-color:#0079ad;
   transition: 0.7s;
 }
+
+.log-in {
+  text-decoration: none;
+  color: rgb(76, 182, 147);
+  font-weight: bold;
+}
