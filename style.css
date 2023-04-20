@@ -59,15 +59,24 @@ h1 {
   background-color: gainsboro;
 }
 
+.form-heading {
+  padding: 7px;
+}
+
 .form-heading,
 .form-intro {
   font-family: "Cabin";
   font-size: 1.7rem;
 }
 
-.account-creation-details {
+.form-intro {
+  padding-top: 7px;
+}
+
+.inputs-area {
   background-color: white;
   flex: 5;
+  box-shadow:0 5px 5px rgb(49, 49, 49);
 }
 
 .form-row {
@@ -91,6 +100,7 @@ h1 {
 
 .btn-create-account {
   position: relative;
+  top: 20px;
   background-color: mediumaquamarine;
   border: none;
   border-radius: 10px;
