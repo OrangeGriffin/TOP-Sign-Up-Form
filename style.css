@@ -64,13 +64,18 @@ h1 {
 }
 
 .form-heading,
-.form-intro {
+.form-intro,
+.existing-account {
   font-family: "Cabin";
   font-size: 1.7rem;
 }
 
 .form-intro {
   padding-top: 7px;
+}
+
+.form-intro, .existing-account {
+  padding-left: 7px;
 }
 
 .inputs-area {
