@@ -88,3 +88,19 @@ h1 {
   padding: 7px;
   font-size: 14px;
 }
+
+.btn-create-account {
+  position: relative;
+  background-color: mediumaquamarine;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Cabin';
+  left: 100px;
+  box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+}
+
+.btn-create-account:hover {
+  background-color:#0079ad;
+  transition: 0.7s;
+}
