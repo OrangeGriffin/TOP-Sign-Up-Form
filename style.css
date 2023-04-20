@@ -24,7 +24,7 @@ body {
 }
 
 .background {
-  background-image: url(/images/through_the_trees.jpg);
+  background-image: url(./images/through_the_trees.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
