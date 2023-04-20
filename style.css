@@ -56,7 +56,7 @@ h1 {
   gap: 2rem;
   justify-content: space-around;
   flex: 5;
-  background-color: gainsboro;
+  background-color: rgb(228, 228, 228);
 }
 
 .form-heading {
