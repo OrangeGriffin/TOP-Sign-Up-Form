@@ -81,23 +81,7 @@ h1 {
   padding: 1rem;
 }
 
-.form-row input[type='text'] {
-  background-color: #FFFFFF;
-  border: 1px solid #D6D9DC;
-  border-radius: 3px;
-  padding: 7px;
-  font-size: 14px;
-}
-
-.form-row input[type="email"] {
-  background-color: #FFFFFF;
-  border: 1px solid #D6D9DC;
-  border-radius: 3px;
-  padding: 7px;
-  font-size: 14px;
-}
-
-.form-row input[type="tel"] {
+.form-row input {
   background-color: #FFFFFF;
   border: 1px solid #D6D9DC;
   border-radius: 3px;
